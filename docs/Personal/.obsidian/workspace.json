@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "67309e49cba52c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "120c94f17f198777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cbfd80cdb1a0510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trip Plans/Gujarat Trip Planner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d004fb6af8229c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "abfcf9b347e39280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1aa88d669382c1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92ee7274b194a785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a471704a098e0afa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a59cddc09a4357b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f045858212e4fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540d092e310c7a63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trip Plans/Gujarat Trip Planner.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c6dd870d1f91a26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trip Plans/Gujarat Trip Planner.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90224401168caa19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11776df3cf119c50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trip Plans/Gujarat Trip Planner.md"
+              }
+            }
+          },
+          {
+            "id": "fd431ff0ab9c2177",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6cbfd80cdb1a0510",
+  "lastOpenFiles": [
+    "Learning/Programming/System Setup.md",
+    "Learning/Programming/Flask.md"
+  ]
+}
